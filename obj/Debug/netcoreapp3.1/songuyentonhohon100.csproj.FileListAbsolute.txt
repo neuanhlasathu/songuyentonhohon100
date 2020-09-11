@@ -1,0 +1,13 @@
+C:\GGG\songuyentonhohon100\bin\Debug\netcoreapp3.1\songuyentonhohon100.exe
+C:\GGG\songuyentonhohon100\bin\Debug\netcoreapp3.1\songuyentonhohon100.deps.json
+C:\GGG\songuyentonhohon100\bin\Debug\netcoreapp3.1\songuyentonhohon100.runtimeconfig.json
+C:\GGG\songuyentonhohon100\bin\Debug\netcoreapp3.1\songuyentonhohon100.runtimeconfig.dev.json
+C:\GGG\songuyentonhohon100\bin\Debug\netcoreapp3.1\songuyentonhohon100.dll
+C:\GGG\songuyentonhohon100\bin\Debug\netcoreapp3.1\songuyentonhohon100.pdb
+C:\GGG\songuyentonhohon100\obj\Debug\netcoreapp3.1\songuyentonhohon100.csprojAssemblyReference.cache
+C:\GGG\songuyentonhohon100\obj\Debug\netcoreapp3.1\songuyentonhohon100.AssemblyInfoInputs.cache
+C:\GGG\songuyentonhohon100\obj\Debug\netcoreapp3.1\songuyentonhohon100.AssemblyInfo.cs
+C:\GGG\songuyentonhohon100\obj\Debug\netcoreapp3.1\songuyentonhohon100.csproj.CoreCompileInputs.cache
+C:\GGG\songuyentonhohon100\obj\Debug\netcoreapp3.1\songuyentonhohon100.dll
+C:\GGG\songuyentonhohon100\obj\Debug\netcoreapp3.1\songuyentonhohon100.pdb
+C:\GGG\songuyentonhohon100\obj\Debug\netcoreapp3.1\songuyentonhohon100.genruntimeconfig.cache
